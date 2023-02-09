@@ -1,0 +1,46 @@
+.color-picker {
+width: 800px;
+height: 50px;
+background-color: #f1c232;
+margin: auto;
+border-radius: 20px;
+}
+.color {
+width: 40px;
+height: 40px;
+margin: 5px;
+display: inline-block;
+border-radius: 50%;
+border: 1px dashed black;
+}
+#artboard {
+	width: 800px;
+	height: 400px;
+	background-color: white;
+	margin: auto;
+	margin-top: 20px;
+}
+.box {
+	width: 18px;
+	height: 18px;
+	display: inline-block;
+	border: 1px solid lightgray;
+}
+#selected {
+	width: 30px;
+	height: 30px;
+	margin-right: 35px;
+	border-radius: 5px;
+	border: 5px double black;
+}
+button {
+	padding: 15px;
+	margin: 10px;
+	font-size: 20px;
+	background-color: black;
+	color: gold;
+}
+body{
+	background-image: url('triangles.jpg');
+	text-align: center;
+}
